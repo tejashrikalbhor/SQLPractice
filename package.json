@@ -1,0 +1,23 @@
+{
+  "name": "sqlpractice",
+  "version": "1.0.0",
+  "description": "to explore more in My SQL",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tejashrikalbhor/SQLPractice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tejashrikalbhor/SQLPractice/issues"
+  },
+  "homepage": "https://github.com/tejashrikalbhor/SQLPractice#readme",
+  "dependencies": {
+    "mysql2": "^2.3.3"
+  }
+}
