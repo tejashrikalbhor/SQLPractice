@@ -18,6 +18,10 @@
   },
   "homepage": "https://github.com/tejashrikalbhor/SQLPractice#readme",
   "dependencies": {
-    "mysql2": "^2.3.3"
+    "body-parser": "^1.20.0",
+    "express": "^4.18.1",
+    "mysql2": "^2.3.3",
+    "nodemon": "^2.0.20",
+    "sequelize": "^6.24.0"
   }
 }
